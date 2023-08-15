@@ -8,6 +8,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
   Skills and Technologies
+
+  (https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+  
  passionately loves C Programming Language,
   Html, CSS, Javascript, Python
   Version Control Github, Git
